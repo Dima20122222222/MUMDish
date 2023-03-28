@@ -4,6 +4,18 @@
 
 .border {
     border: 2px dashed rgb(0, 89, 255);
-    margin-left: 200px;
-    margin-right: 900px;
+    margin-left: 50px;
+    margin-right: 1250px;
+    background-color: bisque;
+    list-style: none;
 }
+
+.ul1 {
+    list-style: none;
+}
+
+.lii {
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+}
+
